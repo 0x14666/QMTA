@@ -6,8 +6,9 @@ With the rapid evolution of cyber threats, malware increasingly exploits encrypt
 
 ##  QMTA Overview
 
-![[Attachments_Readme/IMG-Readme-20251128110524366.png]]
-
+<p align="center">
+  <img src="Attachments_Readme/IMG-Readme-20251128110524366.png" alt="QMTA Overview" width="80%"/>
+</p>
 
 ## Hyperparameter Configuration
 
